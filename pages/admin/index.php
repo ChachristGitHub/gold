@@ -4,7 +4,7 @@ include("../php/config.php");
 include('../php/function.php');
 
 if(!isset($_GET['action'])){
-	echo "ถึงเเล้ว"ว
+	echo "ถึงเเล้ว";
 	require_once('view.php');
 
 
